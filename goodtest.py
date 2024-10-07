@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Step 1: Read the list of websites from the parquet file
-parquet_file_path = "C:\Proiecte JS\Challange\\list of company websites.snappy.parquet.parquet"
+parquet_file_path = "C:\Proiecte JS\Challange\list of company websites.snappy.parquet"
 data = pd.read_parquet(parquet_file_path)
 websites = data['website_column_name']  # Replace with actual column name
 
