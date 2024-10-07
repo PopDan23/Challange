@@ -7,6 +7,8 @@ Address Extraction
 Address Extraction
 Write a program that extracts all the valid addresses that are found on a list of company websites. The format in which you will have to extract this data is the following: country, region, city, postcode, road, and road numbers
 
+[File to download](https://github.com/PopDan23/Challange/blob/a109f71bc38a4a1540067fc26ccb97e9e7575db0/list%20of%20company%20websites.snappy.parquet)
+
 Explore this from as many different angles as you can. It will generate valuable questions. We are also interested in your explanations, reasoning and decision-making along with the actual output. 
 
 ## Challenge #1
